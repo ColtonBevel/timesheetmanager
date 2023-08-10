@@ -1,9 +1,6 @@
-<div class="container px-5 py-24 mx-auto flex flex-wrap items-center">
-    <div class="lg:w-3/5 md:w-1/2 md:pr-16 lg:pr-0 pr-0">
-        <h1 class="title-font font-medium text-3xl text-gray-900">Login</h1>
-        <p class="leading-relaxed mt-4">Manage your timesheets easily.</p>
-    </div>
-    <div class="lg:w-2/6 md:w-1/2 bg-gray-100 rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0">
+<div class="container px-5 py-24 mx-auto justify-center flex flex-wrap items-center">
+    <div class="lg:w-2/6 md:w-1/2 bg-gray-100 rounded-lg p-8 flex flex-col w-full mt-10 md:mt-0">
+        <h1 class="text-3xl text-black mb-5">Login</h1>
         <div class="relative mb-4">
             <label for="full-name" class="leading-7 text-sm text-gray-600">Username</label>
             <input type="text" id="full-name" name="full-name" class="w-full bg-white rounded border border-gray-300 focus:border-green-500 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
